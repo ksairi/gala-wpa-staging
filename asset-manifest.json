@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/static/js/app.9871fef6.chunk.js",
-    "app.js.map": "/static/js/app.9871fef6.chunk.js.map",
+    "app.js": "/static/js/app.a331bd0d.chunk.js",
+    "app.js.map": "/static/js/app.a331bd0d.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.4b0f5a04.js",
     "runtime~app.js.map": "/static/js/runtime~app.4b0f5a04.js.map",
-    "static/js/2.1a42a1c1.chunk.js": "/static/js/2.1a42a1c1.chunk.js",
-    "static/js/2.1a42a1c1.chunk.js.map": "/static/js/2.1a42a1c1.chunk.js.map",
+    "static/js/2.cdef56f6.chunk.js": "/static/js/2.cdef56f6.chunk.js",
+    "static/js/2.cdef56f6.chunk.js.map": "/static/js/2.cdef56f6.chunk.js.map",
     "fonts/AntDesign.ttf": "/./fonts/AntDesign.ttf",
     "fonts/Brother-1816-Bold.otf": "/./fonts/Brother-1816-Bold.otf",
     "fonts/Entypo.ttf": "/./fonts/Entypo.ttf",
@@ -28,13 +28,15 @@
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
+    "static/media/app-store-badge.png": "/static/media/app-store-badge.ce05bb65.png",
+    "static/media/google-play-badge.png": "/static/media/google-play-badge.4263a06f.png",
     "static/media/login.jpg": "/static/media/login.042ed9d9.jpg",
     "static/media/no_profile_picture.jpg": "/static/media/no_profile_picture.53c62e22.jpg",
     "static/media/splash.png": "/static/media/splash.0f8a1934.png"
   },
   "entrypoints": [
     "static/js/runtime~app.4b0f5a04.js",
-    "static/js/2.1a42a1c1.chunk.js",
-    "static/js/app.9871fef6.chunk.js"
+    "static/js/2.cdef56f6.chunk.js",
+    "static/js/app.a331bd0d.chunk.js"
   ]
 }

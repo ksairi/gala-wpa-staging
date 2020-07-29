@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/static/js/app.57fe2bc9.chunk.js",
-    "app.js.map": "/static/js/app.57fe2bc9.chunk.js.map",
+    "app.js": "/static/js/app.e1f55e2f.chunk.js",
+    "app.js.map": "/static/js/app.e1f55e2f.chunk.js.map",
     "runtime~app.js": "/static/js/runtime~app.2e9f1821.js",
     "runtime~app.js.map": "/static/js/runtime~app.2e9f1821.js.map",
-    "static/js/2.9787bff3.chunk.js": "/static/js/2.9787bff3.chunk.js",
-    "static/js/2.9787bff3.chunk.js.map": "/static/js/2.9787bff3.chunk.js.map",
+    "static/js/2.b6dd6c11.chunk.js": "/static/js/2.b6dd6c11.chunk.js",
+    "static/js/2.b6dd6c11.chunk.js.map": "/static/js/2.b6dd6c11.chunk.js.map",
     "fonts/AntDesign.ttf": "/./fonts/AntDesign.ttf",
     "fonts/Brother-1816-Bold.otf": "/./fonts/Brother-1816-Bold.otf",
     "fonts/Entypo.ttf": "/./fonts/Entypo.ttf",
@@ -28,7 +28,7 @@
     "index.html": "/index.html",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "static/js/2.9787bff3.chunk.js.LICENSE.txt": "/static/js/2.9787bff3.chunk.js.LICENSE.txt",
+    "static/js/2.b6dd6c11.chunk.js.LICENSE.txt": "/static/js/2.b6dd6c11.chunk.js.LICENSE.txt",
     "static/media/app-store-badge.png": "/static/media/app-store-badge.7a7b6b2a.png",
     "static/media/google-play-badge.png": "/static/media/google-play-badge.5d9a073b.png",
     "static/media/login.jpg": "/static/media/login.5208fa14.jpg",
@@ -37,7 +37,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.2e9f1821.js",
-    "static/js/2.9787bff3.chunk.js",
-    "static/js/app.57fe2bc9.chunk.js"
+    "static/js/2.b6dd6c11.chunk.js",
+    "static/js/app.e1f55e2f.chunk.js"
   ]
 }
